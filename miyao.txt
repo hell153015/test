@@ -1,2 +1,6 @@
 shengcheng mi yao
 ssh-keygen -t rsa
+
+lian jie
+git remote add origin git@github.com:hell153015/test.git
+
