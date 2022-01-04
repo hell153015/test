@@ -1,0 +1,2 @@
+shengcheng mi yao
+ssh-keygen -t rsa
